@@ -1,0 +1,42 @@
+*{
+    margin:30px;
+    padding:0;
+    box-sizing:border-box;
+}
+.bg{
+    background-color:rgb(90, 219, 148);
+    color:black;
+}
+.fig{
+    align-items: center;
+    text-align: center;
+    font-size:50px;
+}
+li{
+    list-style-type: none;
+}
+.box{
+    padding: auto;
+    width:80%;
+    height:80%;
+    background-color:rgb(34, 173, 115);
+    box-shadow: 7px 7px 7px rgb(10, 227, 54);
+}
+h1{
+    text-align:Center;
+    color:White;
+    font-size: 40px;
+    text-shadow:5px 5px 5px black;
+}
+.scroll-container{
+    height:cover;
+    overflow-y:scroll;
+    scroll-behavior:"smooth";
+    animation: scroll 5s linear infinite; 
+
+}
+  .foot{
+    text-decoration: none;
+    color:black;
+  }
+  

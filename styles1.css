@@ -1,0 +1,27 @@
+.nav-link{
+    display: block;
+    border:1px solid black;
+    padding:5px;
+    margin:10px 10px;
+}
+#code{
+    background-color: #CCC;
+    display: block;
+    padding: 20px;
+}
+#navi{
+    position:fixed;
+}
+.left{
+        width: 30%;
+        padding: 10px;
+}
+.r{
+    float:right;
+    width: 70%;
+    padding: 10px;
+    overflow-y: auto;
+    overflow-x:hidden ;
+    position: relative;
+
+}
